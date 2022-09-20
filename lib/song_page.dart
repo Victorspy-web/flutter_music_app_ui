@@ -65,7 +65,7 @@ class _SongPageState extends State<SongPage> {
                             crossAxisAlignment: CrossAxisAlignment.start,
                             children: [
                               Text(
-                                "I Love You Mummy",
+                                "I Can Do It",
                                 style: TextStyle(
                                   fontWeight: FontWeight.bold,
                                   fontSize: 18,
@@ -74,7 +74,7 @@ class _SongPageState extends State<SongPage> {
                               ),
                               const SizedBox(height: 6),
                               const Text(
-                                "Mrs Dzifa",
+                                "VED",
                                 style: TextStyle(
                                   fontWeight: FontWeight.bold,
                                   fontSize: 22,
